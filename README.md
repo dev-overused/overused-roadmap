@@ -3,9 +3,9 @@
 This repository explains what Overused Linux is.
 
 ## Usage
-Free. 50% GNU Free
+Free. 35% GNU Free.
 
 ## Tech Stack (Planned)
-* **Base Distro:** [Linux From Scratch]
-* **Desktop Environment:** [XFCE]
-* **Package Manager:** [apk(alpine)]
+* **Base Distro:** Linux From Scratch
+* **Desktop Environment:** XFCE
+* **Package Manager:** apk(alpine)
