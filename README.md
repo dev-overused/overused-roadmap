@@ -7,7 +7,7 @@ Free.
 
 ## Tech Stack (Planned)
 * **Base Distro:** Linux From Scratch
-* **Kernel:** Linux-Libre
+* **Kernel:** Linux
 * **Init:** SystemD
 * **Desktop Environment:** XFCE
 * **Package Manager:** pkgtools
